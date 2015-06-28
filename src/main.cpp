@@ -1,6 +1,7 @@
 #include "ofMain.h"
 #include "ofApp.h"
-#kaeta yeah!
+
+//kaeta yeah!
 //========================================================================
 int main( ){
 
