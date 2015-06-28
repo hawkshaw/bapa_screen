@@ -1,6 +1,8 @@
 #include "ofMain.h"
 #include "ofApp.h"
 
+
+//masaru commit
 //========================================================================
 int main( ){
 
