@@ -1,8 +1,13 @@
 #include "ofMain.h"
 #include "ofApp.h"
 
+<<<<<<< HEAD
 
 //masaru commit
+=======
+//kaeta yeah!
+//kaeta yeah!
+>>>>>>> f8a9de97864317ce584eec9467e8f1ccac9d44ef
 //========================================================================
 int main( ){
 
