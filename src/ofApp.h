@@ -2,6 +2,8 @@
 
 #include "ofMain.h"
 #include "ofxOsc.h"
+#include "ofAppReceive.h"
+#include "ofAppDraw.h"
 
 // listen on port 12345
 #define PORT 12345
@@ -25,6 +27,12 @@ class ofApp : public ofBaseApp {
 		void dragEvent(ofDragInfo dragInfo);
 		void gotMessage(ofMessage msg);
 
+        void getMessage(ofxOscMessage m);
+        void getMessage1(ofxOscMessage m);
+        void getMessage2(ofxOscMessage m);
+        void getMessage22(ofxOscMessage m);
+
+    
 		ofTrueTypeFont font;
 		ofxOscReceiver receiver;
 
