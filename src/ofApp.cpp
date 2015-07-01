@@ -2,9 +2,6 @@
 #include "ofAppReceive.h"
 #include "ofAppDraw.h"
 
-
-#define DRAWMODE 2
-
 //--------------------------------------------------------------
 void ofApp::setup(){
 	// listen on the given port
